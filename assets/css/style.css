@@ -4,7 +4,7 @@ body, html {
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 ul { list-style: none; padding-left: 5px; }
-a { color:blue; text-decoration: none;}
+a { color:black; text-decoration: none;}
 .bar {
     background-color: #f9f9fb;
     padding:15px;
